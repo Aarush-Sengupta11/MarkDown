@@ -1,5 +1,5 @@
 # Overview
-The project is introduction to markdown for the indented audience of APT students that need to develop skills needed for proper documentation later on.
+The project is to help students learn how and where they can use markdown. It's value comes from being able to learn something to use in different places.
 
 
 ## Features
