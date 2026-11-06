@@ -14,3 +14,6 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```
 ## Learning Metrics
 This is a $d_1$ sentence.
+$$
+p = \frac{c}{t} \times 100
+$$
