@@ -1,5 +1,5 @@
 ## Overview
-The project is to help students learn how and where they can use markdown. It's value comes from being able to learn something to use in different places.
+The project is designed to help the audience (students) learn how and where they can use markdown. It's value comes from being able to learn something to use in different places.
 
 
 ## Features
