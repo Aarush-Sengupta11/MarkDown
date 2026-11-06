@@ -20,3 +20,4 @@ c = 5
 d = 10
 p = \frac{c}{t} \times 100
 $$
+c is supposed to be equal to 5 and d is supposed to be equal to 10, so p is the expression of 5 divided by 10.
