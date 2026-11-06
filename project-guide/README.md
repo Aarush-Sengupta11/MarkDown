@@ -1,5 +1,5 @@
 # Overview
-An introduction to markdown for students to develop skills needed for proper documentation later on.
+An introduction to markdown for the indented audience of APT students that need to develop skills needed for proper documentation later on.
 
 
 ## Features
