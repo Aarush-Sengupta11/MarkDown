@@ -16,6 +16,8 @@ The project is designed to help the audience (students) learn how and where they
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Expected Output](#expected-output)
+- [Project Files](#project-files)
 
 ## Prerequisites
 
@@ -32,3 +34,15 @@ cd skills-communicate-using-markdown
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
 
 ## Usage
+From the repository folder, display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+
+## Project files
+| File | Purpose |
+| --- | --- |
+| [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
+| [Project README](README.md) | Setup and usage instructions |
+
+
+## Expected output
+The terminal displays the source Markdown. Your title may differ from this shortened example:
