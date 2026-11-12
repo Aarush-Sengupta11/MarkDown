@@ -34,7 +34,14 @@ cd skills-communicate-using-markdown
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
 
 ## Usage
-From the repository folder, you can display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+From the repository folder, display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+```bash
+cat day-1.md
+```
+
+For formatted reading, open [the journal](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
 
 
 ## Project files
@@ -45,4 +52,14 @@ From the repository folder, you can display the journal in a terminal with this 
 
 
 ## Expected output
+
 The terminal displays the source Markdown. Your title may differ from this shortened example:
+
+```text
+# Daily Learning
+
+## Morning Planning
+```
+
+On GitHub, the same headings appear at different sizes and task markers become checkboxes.
+
