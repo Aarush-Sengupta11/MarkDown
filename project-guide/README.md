@@ -71,7 +71,7 @@ On GitHub, the same headings appear at different sizes and task markers become c
 You need to fork or create a branch, make a focused change, preview Markdown and check links, and open a pull request. The course's Actions checks evaluate submissions; there is no application test suite to run for the journal.
 
 ## Support
-You can ask for help here: [Issues](https://github.com/Aarush-Sengupta11/MarkDown/issues)
+You can ask for help here in the repository issues tab: [Repository Issues](https://github.com/Aarush-Sengupta11/MarkDown/issues)
 
 ## License
 
