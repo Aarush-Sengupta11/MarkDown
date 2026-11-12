@@ -34,7 +34,7 @@ cd skills-communicate-using-markdown
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
 
 ## Usage
-From the repository folder, display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+From the repository folder, you can display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
 
 
 ## Project files
