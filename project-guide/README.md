@@ -18,6 +18,9 @@ The project is designed to help the audience (students) learn how and where they
 - [Usage](#usage)
 - [Expected Output](#expected-output)
 - [Project Files](#project-files)
+- [Support](#support)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Prerequisites
 
@@ -63,3 +66,13 @@ The terminal displays the source Markdown. Your title may differ from this short
 
 On GitHub, the same headings appear at different sizes and task markers become checkboxes.
 
+## Contributing
+
+You need to fork or create a branch, make a focused change, preview Markdown and check links, and open a pull request. The course's Actions checks evaluate submissions; there is no application test suite to run for the journal.
+
+## Support
+You can ask for help here: [Issues](https://github.com/Aarush-Sengupta11/MarkDown/issues)
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
